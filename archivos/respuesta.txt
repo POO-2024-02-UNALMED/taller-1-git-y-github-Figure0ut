@@ -1,0 +1,1 @@
+No es posible subir carpetas vacías. 
