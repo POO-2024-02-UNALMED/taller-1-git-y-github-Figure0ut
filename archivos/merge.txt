@@ -1,3 +1,6 @@
+Es imposible enviar el commit cuando se creó unicamente la carpeta. Primero, se debe haber creado algún contenido dentro de la carpeta y, luego, se podrá enviar el commit y subir los cambios, 
+pues mientras la carpeta se mantenga vacía. no es reconocida como un cambio relevante. 
+
 Nombre: Pablo Bernal García
 Edad: 18 años
 Aspiraciones: Espero adquirir las habilidades necesarias para poder convertirme en un profesional competente que cuente 
