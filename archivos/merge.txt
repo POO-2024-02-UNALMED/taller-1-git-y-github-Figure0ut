@@ -5,3 +5,8 @@ Nombre: Pablo Bernal García
 Edad: 18 años
 Aspiraciones: Espero adquirir las habilidades necesarias para poder convertirme en un profesional competente que cuente 
 con conocimientos profundos y las herramientas intelectuales adecuadas para crear soluciones de software en diversas áreas.
+
+Es importante tener cuidado con las modificaciones para evitar conflictos a la hora de subir un archivo, pues esto podría causar
+confusiones e incluso arruinar avances que se hayan hecho dentro del respositorio. Además, es importante tener buena 
+comunicación con el equipo para que los cambios que se realicen no vayan a interrumpir el progreso de otros o crear 
+aún más conflictos entre los archivos o versiones. 
